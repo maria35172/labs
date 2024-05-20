@@ -1,0 +1,37 @@
+.container{
+  width: 1980px;
+  height: 1050px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  width: 250px;
+  height: 410px;
+  border: 3px solid rgb(68, 66, 66);
+  border-radius: 5px;
+}
+
+.under_img{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.title_and_price {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.text {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.order-button {
+  margin-left: 8px;
+}
